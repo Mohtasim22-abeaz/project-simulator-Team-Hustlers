@@ -1,0 +1,1 @@
+As a system, I want to allow profile viewing and updates so that users can manage their personal information.

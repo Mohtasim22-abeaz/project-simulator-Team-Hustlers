@@ -1,0 +1,1 @@
+As a system, I want to provide farming tips so that farmers receive helpful guidance.
